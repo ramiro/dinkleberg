@@ -54,4 +54,4 @@ sidebar = [
 This configuration was the same configuration that we use on [RustBR Blog](https://rust-br.github.io/blog)
 
 ### Favicons and other stuff
-By default Dinkleberg wait that you have all icons on root of your static, for it you can use the site [https://www.favicon-generator.org/](https://www.favicon-generator.org/) to generate that bundle and put it inside you `/static` :D
+By default Dinkleberg expects that you have all icons on root of your static, for it you can use the site [https://www.favicon-generator.org/](https://www.favicon-generator.org/) to generate that bundle and put it inside you `/static` :D
